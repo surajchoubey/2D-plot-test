@@ -1,6 +1,9 @@
 # 2D-plot-test
 Just for quick showing purpose
 
+### Average till i-th
+  ![alt](average_till_i-th.png)
+
 ### For 100 samples
   ![alt](100.png)
   
@@ -9,3 +12,4 @@ Just for quick showing purpose
   
 ### For 10000 samples
   ![alt](10000.png)
+
