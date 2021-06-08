@@ -2,7 +2,7 @@
 Just for quick showing purpose
 
 ### For 100 samples
-	![alt](100.png)
+  ![alt](100.png)
   
 ### For 1000 samples
   ![alt](1000.png)
