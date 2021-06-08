@@ -3,7 +3,7 @@ Just for quick showing purpose
 
 ### Average till i-th
 ##### X axis = i
-##### Y axis - average for i samples
+##### Y axis = average till i samples
   ![alt](average_till_i-th.png)
 
 ### For 100 samples
