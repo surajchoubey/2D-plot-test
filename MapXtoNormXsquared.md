@@ -11,4 +11,4 @@
   ![alt](map10000.png)
 
 ### For 100000 samples
-  ![alt](map10000.png)
+  ![alt](map100000.png)
