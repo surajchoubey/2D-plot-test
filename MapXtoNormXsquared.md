@@ -1,7 +1,7 @@
 # Mapping X to ||X|| squared
 
 ##### X axis = i
-##### Y axis = $ ||X_{i}||^2 $$
+##### Y axis = || X_{i} ||^2
 
 ### For 100 samples
   ![alt](map100.png)
