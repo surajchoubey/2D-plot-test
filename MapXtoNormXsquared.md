@@ -1,6 +1,6 @@
 # Mapping X to ||X|| squared
 
-##### It is done for 10 dimensions where X_{i} = [ X1, X2, ... , Xn ] 
+##### It is done for 10 dimensions where X_{i} = [ X1, X2, ... , X10 ] 
 ##### X axis = i
 ##### Y axis = || X_{i} ||^2
   
