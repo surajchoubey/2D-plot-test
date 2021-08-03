@@ -2,7 +2,7 @@
 
 Following tests have been performed for 4 outer loops.
 
-**Peculiar observation: Bell curve is becoming more pointy as `m` increases.**
+**Observation: Bell curve is becoming more pointy as `m` increases.**
 
 #### ~150000 HMC points
 
